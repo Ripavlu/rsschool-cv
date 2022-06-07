@@ -35,4 +35,4 @@ end.
 
 ## Language skills
 - Russian language - native
-- A2 Elementary
+- A2 Elementary.
