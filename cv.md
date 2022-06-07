@@ -13,6 +13,7 @@ At the end of the 3rd year of the university, I was invited to work as a compute
 - Pascal;
 - Python;
 - Adobe Photoshop;
+- MS Excel;
  
 ## Code example
 _A simple program in the Pascal programming language "Arithmetic operations with strings"_
