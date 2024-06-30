@@ -13,8 +13,9 @@ At the end of the 3rd year of the university, I was invited to work as a compute
 - Pascal;
 - Python;
 - Adobe Photoshop;
-- MS Excel;
+- MS Office;
 - Mobile video editing;
+- Creating content for social media
 
  
 ## Code example
