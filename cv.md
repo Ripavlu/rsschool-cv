@@ -1,9 +1,9 @@
 # Pavlova Irina 
 ![Фото Павлова ИН](https://cdn4.cdn-telegram.org/file/F5Fxtk3htLoHGIAPEvmm5J8n-yLXuEhLQMGoUAIby0l9KeADTbTN4tsFNweqbdSuuRF0mUIHxth6OeimWuyJterrVWcd1XdxVuExhx4jLfFwt4XRP7ZsJRmx2W6UqyL8n0Zs1GZ-THboxLkJvPQKiTZi13rSj1vJpiZX-8bRqM0kB7XqU3SJHaFjG3SXCT2vMnrD9FH9vkV1fwpswheBzsHsxGLx7p2QvvUKEzPH2aszEc1OYkUeeHA7jkAoVIto_A2vUfDBtMEWOGmD1RBkTR5ltbFwYJAk5u4W0du5VvdCkrLYVbKPCIH5GpCZMOFnPr1TontEwalW9qR_3vL87A.jpg)
 ## Contacts
--telegram: https://t.me/RiPavlu ;
--discord: Irina Pavlova (@Ripavlu) ;
--github: https://github.com/Ripavlu 
+- telegram: https://t.me/RiPavlu 
+- discord: Irina Pavlova (@Ripavlu) 
+- github: https://github.com/Ripavlu 
 
 ## Brief information about me
 During my school years, I became interested in creating websites. I started trying to change the site code and looked at what had changed on the page. So I got acquainted with some html and css tags. While studying at the university, I spent little time studying websites, which I now regret very much.
